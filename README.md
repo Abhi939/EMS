@@ -10,6 +10,8 @@ module. In User module, the candidates can apply for job and see new job opening
 Java, Html, Css, Javascript, Hibernate, Bootstrap, Log4J
 
 ## Features
--Awesome
+- George Washington
+- John Adams
+- Thomas Jefferson
 
 
