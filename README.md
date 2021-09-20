@@ -29,7 +29,7 @@ To-do list:
 -
 
 ## Usage
-The end users has a flexible user design, where they can register and login to the website. The EMS shows the latest job posts in the portal, where users can apply for it.
+The end users experiences a flexible user design, where they can register and login to the website. The EMS shows the latest job posts in the portal, where users can apply for it.
 
 
 
